@@ -1,0 +1,35 @@
+{
+  "name": "c_parking-backend",
+  "version": "1.0.0",
+  "description": "Backend para aplicacion de la asignatura web 2, proyecto con fines educativos del cesde",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantiagoMisas/C_Parking-Backend.git"
+  },
+  "keywords": [
+    "parking-app",
+    "javascript",
+    "sql",
+    "xampp"
+  ],
+  "author": "Santiago Misas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SantiagoMisas/C_Parking-Backend/issues"
+  },
+  "homepage": "https://github.com/SantiagoMisas/C_Parking-Backend#readme",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.20",
+    "react-router-dom": "^6.4.5",
+    "sequelize": "^6.26.0"
+  }
+}
